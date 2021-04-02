@@ -1,0 +1,9 @@
+Package: com.ariel.ccvibrate
+Name: CCVibrate
+Depends: mobilesubstrate, com.opa334.ccsupport
+Version: 1.0
+Architecture: iphoneos-arm
+Description: An awesome Control Center module!
+Maintainer: Ariel
+Author: Ariel
+Section: Control Center (Modules)
